@@ -30,8 +30,8 @@ Python3 한글 처리
   
 | Methods | Advantages | Disadvantage |
 | :--- | :--- | :--- |
-| Data providers or sites (.txt, .csv, .xlsx etc.) | No need to collect it yourself | * There is no way to communicate in real time when information changes   * Time consuming |
-| **Web crawling** | Can collect data on almost any web | * Difficult to parsing and analysis source code on the web   * Risk of copyright infringement |
+| Data providers or sites (.txt, .csv, .xlsx etc.) | No need to collect it yourself | There is no way to communicate in real time when information changes & Time consuming |
+| **Web crawling** | Can collect data on almost any web | Difficult to parsing and analysis source code on the web & Risk of copyright infringement |
 | Get database access | Easy to collect structured data | Security risks |
 | **Data Provider API** | Solve the problem of security and real-time delivery | Limited data collection |
   
