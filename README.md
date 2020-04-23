@@ -12,10 +12,10 @@ Size of data that is difficult to handle compared to existing technology level
 * Insight into the present and predict the future through various, in-depth and sophisticated analysis   
 
 ### Big Data Analysis
-step1. Analysis purpose setting
-step2. Target data extraction and processing
-step3. Data analysis and verification
-step4. Result Analysis
+step1. Analysis purpose setting   
+step2. Target data extraction and processing   
+step3. Data analysis and verification   
+step4. Result Analysis   
 
 # 2. Collection
 ### Development environment
@@ -27,12 +27,12 @@ Python3 한글 처리
 
 ### Data acquisition method
 * Common data acquisition methods   
-|Methods|Advantages|Disadvantage|
-|------|---|---|
-|Data providers or sites (.txt, .csv, .xlsx etc.)|No need to collect it yourself|There is no way to communicate in real time when information changes   Time consuming|
-|**Web crawling**|Can collect data on almost any web|Difficult to parsing and analysis source code on the web   Risk of copyright infringement|
-|Get database access|Easy to collect structured data|Security risks|
-|**Data Provider API**|Solve the problem of security and real-time delivery|Limited data collection|
+| Methods | Advantages | Disadvantage |
+| :------------ | :-----------: | -------------------: |
+| Data providers or sites (.txt, .csv, .xlsx etc.) | No need to collect it yourself | There is no way to communicate in real time when information changes   Time consuming |
+| **Web crawling** | Can collect data on almost any web | Difficult to parsing and analysis source code on the web   Risk of copyright infringement |
+| Get database access | Easy to collect structured data | Security risks |
+| **Data Provider API** | Solve the problem of security and real-time delivery | Limited data collection |
 
 ### Web crawling
 [Web crawling 예제 폴더 만들고 여기 링크 삽입]
